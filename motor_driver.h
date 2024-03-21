@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 
-#include <motor_driver_config.h>
+#include "motor_driver_config.h"
 
 #ifndef MOTOR_DRIVER_PWM_TYPE
 #error "Need define MOTOR_DRIVER_PWM_TYPE"
